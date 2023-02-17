@@ -3,11 +3,8 @@
 <h3 align="center">#Here_To_Enjoy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naornc&label=Profile%20views&color=0e75b6&style=flat" alt="naornc" /> </p>
 
-- 🍒 New Discord Server - https://discord.gg/NCHub
+- 👨‍💼 Current Project - https://discord.gg/vroleplay
 
-- 👨‍💻 Small projects available at - [https://github.com/NaorNC?tab=repositories](https://github.com/NaorNC?tab=repositories)
+- 👨‍💻 My Projects - [https://github.com/GhostmaneX?tab=repositories](https://github.com/GhostmaneX?tab=repositories)
 
-- 👨‍💼 Currently sold over - **145+ QBCore server files & 310 scripts separately.** Feel free to join the family! <br>
-**My discord is below the description.**</br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=NaorNC&theme=onedark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=GhostmaneX&theme=onedark&show_icons=true)
