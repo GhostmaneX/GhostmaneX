@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://google.com/)
+[![MasterHead](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)](https://google.com/)
 <h1 align="center">Hey, Welcome To GhostmaneX Page 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="ghostmanex" /> </p>
 
