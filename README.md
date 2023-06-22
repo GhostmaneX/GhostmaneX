@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1029452028851781632/1120023307870289960/gk.png)](https://google.com/)
+[![MasterHead](https://cdn.discordapp.com/attachments/1021784057056608388/1111846819199209482/Untitlsddsdsed-1.png)](https://google.com/)
 <h1 align="center">Hey, Welcome To GhostmaneX Page 👋</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="ghostmanex" /> </p>
 
