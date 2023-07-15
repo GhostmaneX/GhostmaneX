@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Projects - [https://github.com/GhostmaneX?tab=repositories](https://github.com/GhostmaneX?tab=repositories)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GhostmaneX&theme=onedark&show_icons=true)
+![Stats](https://github.com/GhostmaneX/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GhostmaneX&show_icons=true&locale=en&layout=compact" alt="GhostmaneX" /></p>
 
