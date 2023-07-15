@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GhostmaneX&theme=dark&hide_border=true" alt="Stats" />
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/755733866408312832">
     <img src="https://lanyard-profile-readme.vercel.app/api/755733866408312832?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GhostmaneX&theme=dark&hide_border=true" alt="Stats" />
 </p>
 
 <div align="center">
