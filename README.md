@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="MasterHead" width="2000" height="500" />
-</p>
+![MasterHead](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
 
-<h1 align="center">Hey, Welcome To GhostmaneX's Page 👋</h1>
+<h1 align="center">Hey, Welcome To GhostmaneX's Page :wave:</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="ghostmanex" />
