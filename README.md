@@ -1,4 +1,6 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1021784057056608388/1111846819199209482/Untitlsddsdsed-1.png)
+<p align="center">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" alt="MasterHead" width="2000" height="500" />
+</p>
 
 <h1 align="center">Hey, Welcome To GhostmaneX's Page 👋</h1>
 
