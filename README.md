@@ -1,15 +1,13 @@
-![MasterHead](https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif)
-
 <h1 align="center">Hey, Welcome To GhostmaneX's Page :wave:</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="ghostmanex" />
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/755733866408312832">
     <img src="https://lanyard-profile-readme.vercel.app/api/755733866408312832?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghostmanex&label=Profile%20views&color=0e75b6&style=flat" alt="ghostmanex" />
 </p>
 
 <p align="center">
