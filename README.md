@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1021784057056608388/1111846819199209482/Untitlsddsdsed-1.png)]
+![MasterHead](https://cdn.discordapp.com/attachments/1021784057056608388/1111846819199209482/Untitlsddsdsed-1.png)
 
 <h1 align="center">Hey, Welcome To GhostmaneX's Page 👋</h1>
 
